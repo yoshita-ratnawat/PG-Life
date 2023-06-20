@@ -4,7 +4,7 @@ A homestay booking website called PG Life. The website consists of 8 HTML/PHP pa
 Structures:
 
 HTML, CSS, JS, AND BOOTSTRAP: where designed the look of each website page.
-PHP & MySQL: where you added functionality to the website. This allows us to allow users to register and buy mobiles on the website.
+PHP & MySQL: where you added functionality to the website. This allows us to allow users to register and book home on the website.
 Advanced PHP: where you added advanced features, such as validations and security to the website.
 
 Prerequisites:
